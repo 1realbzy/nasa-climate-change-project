@@ -19,4 +19,4 @@ This project analyzes climate change data to identify trends, patterns, and insi
 ## Getting Started:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/1realbzy/nasa-climate-change-project.git
